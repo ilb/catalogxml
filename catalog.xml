@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog PUBLIC "-//OASIS//DTD Entity Resolution XML Catalog V1.0//EN" "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+	<uri name="http://wadl.dev.java.net/2009/02" uri="wadl.xsd"/>
+	<uri name="http://www.w3.org/1999/XSL/Format" uri="fop.xsd"/>
+	<uri name="http://www.w3.org/1999/xhtml" uri="xhtml11/schema/xhtml11.xsd"/>
+	<system systemId="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" uri="svg/svg11.dtd"/>
+	<uri name="http://www.eclipse.org/eclipselink/xsds/persistence/orm" uri="eclipselink_orm_2_5.xsd"/>
+	<uri name="http://www.eclipse.org/eclipselink/xsds/persistence/oxm" uri="eclipselink_oxm_2_5.xsd"/>
+	<uri name="http://www.together.at/2006/XPIL1.0" uri="xpdl/xpil.xsd"/>
+	<uri name="http://java.sun.com/xml/ns/jaxb" uri="bindingschema_2_0.xsd"/>
+	<uri name="urn:oasis:names:tc:entity:xmlns:xml:catalog" uri="catalog.xsd"/>
+</catalog>
